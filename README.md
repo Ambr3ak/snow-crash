@@ -31,6 +31,3 @@ Direct links to each level are provided for ease of access:
 - [Level 08](https://github.com/lambrette/snow-crash/tree/main/level08)
 - [Level 09](https://github.com/lambrette/snow-crash/tree/main/level09)
 
----
-
-By engaging with the **Snow-Crash** project, participants gain hands-on experience in computer security, an understanding of common vulnerabilities, and a methodology for tackling programming challenges.
